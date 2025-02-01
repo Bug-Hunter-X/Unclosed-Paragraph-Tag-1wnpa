@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon HTML error: an unclosed paragraph tag.  The bug.html file demonstrates the error, while bugSolution.html provides the corrected version.  This is a subtle error that can lead to unexpected layout issues.
